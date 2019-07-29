@@ -1,6 +1,7 @@
 var cacheStorageKey = 'vanilla-pwa-3';
 var cacheList=[
   '/index.html',
+  '/src/index.js',
   '/src/service-worker.js',
   '/src/style.css',
 ];
