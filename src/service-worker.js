@@ -1,7 +1,7 @@
 var cacheStorageKey = 'vanilla-pwa-3';
 var cacheList=[
   '/index.html',
-  '/src/service-worker.js'
+  '/src/service-worker.js',
   '/src/style.css',
 ];
 self.addEventListener('install',e =>{
