@@ -1,4 +1,4 @@
-var cacheStorageKey = 'vanilla-pwa-3';
+var cacheStorageKey = 'vanilla-pwa-4';
 var cacheList=[
   '/index.html',
   '/src/index.js',
